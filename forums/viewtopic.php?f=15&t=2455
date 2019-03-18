@@ -104,7 +104,7 @@
 	<a id="top" name="top" accesskey="t"></a>
 	<div id="page-header">
 		<header class="header" role="banner">
-<img src="/images/bannersmall.png">
+<img src="/FVDisco/images/bannersmall.png">
 <div id="div_nav" class="div_nav">
 <nav role="navigation">
 <ul id="menu-nav_menu" class="nav top-nav clearfix">
