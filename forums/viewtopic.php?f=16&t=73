@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="en-gb" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="global" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<title>ocddisco.com Forums &bull; View topic - Community Guidelines *PLEASE READ BEFORE POSTING*</title>
+
+<link rel="alternate" type="application/atom+xml" title="Feed - ocddisco.com Forums" href="http://www.ocddisco.com/forums/feed.php" /><link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="http://www.ocddisco.com/forums/feed.php?mode=topics" /><link rel="alternate" type="application/atom+xml" title="Feed - Forum - Introductions" href="http://www.ocddisco.com/forums/feed.php?f=16" /><link rel="alternate" type="application/atom+xml" title="Feed - Topic - Community Guidelines *PLEASE READ BEFORE POSTING*" href="http://www.ocddisco.com/forums/feed.php?f=16&amp;t=73" />
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37593372-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+// <![CDATA[
+	var jump_page = 'Enter the page number you wish to go to:';
+	var on_page = '1';
+	var per_page = '';
+	var base_url = '';
+	var style_cookie = 'phpBBstyle';
+	var style_cookie_settings = '; path=/; domain=.ocddisco.com';
+	var onload_functions = new Array();
+	var onunload_functions = new Array();
+
+	
+
+	/**
+	* Find a member
+	*/
+	function find_username(url)
+	{
+		popup(url, 760, 570, '_usersearch');
+		return false;
+	}
+
+	/**
+	* New function for handling multiple calls to window.onload and window.unload by pentapenguin
+	*/
+	window.onload = function()
+	{
+		for (var i = 0; i < onload_functions.length; i++)
+		{
+			eval(onload_functions[i]);
+		}
+	};
+
+	window.onunload = function()
+	{
+		for (var i = 0; i < onunload_functions.length; i++)
+		{
+			eval(onunload_functions[i]);
+		}
+	};
+
+// ]]>
+</script>
+<script type="text/javascript" src="./styles/prosilver/template/styleswitcher.js"></script>
+<script type="text/javascript" src="./styles/prosilver/template/forum_fn.js"></script>
+
+<link href="./styles/disco/theme/print.css" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="./style.php?id=4&amp;lang=en" rel="stylesheet" type="text/css" media="screen, projection" />
+
+<link href="./styles/disco/theme/normal.css" rel="stylesheet" type="text/css" title="A" />
+<link href="./styles/disco/theme/medium.css" rel="alternate stylesheet" type="text/css" title="A+" />
+<link href="./styles/disco/theme/large.css" rel="alternate stylesheet" type="text/css" title="A++" />
+
+
+
+<style>
+.login_link {display:none !important;}
+</style>
+
+</head>
+
+<body id="phpbb" class="section-viewtopic ltr">
+
+<div id="wrap">
+	<a id="top" name="top" accesskey="t"></a>
+	<div id="page-header">
+		<header class="header" role="banner">
+<img src="/images/bannersmall.png">
+<div id="div_nav" class="div_nav">
+<nav role="navigation">
+<ul id="menu-nav_menu" class="nav top-nav clearfix">
+<li id="menu-item-197" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-197">
+<a href="http://www.ocddisco.com">
+<div class="div_home_link"></div>
+</a>
+</li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220">
+<a href="http://www.ocddisco.com/maps/">
+<div class="div_maps_link"></div>
+</a>
+</li>
+<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224">
+<a href="http://www.ocddisco.com/ocdpack/">
+<div class="div_ocdpack_link"></div>
+</a>
+</li>
+<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198">
+<a href="http://www.ocddisco.com/forums">
+<div class="div_forums_link"></div>
+</a>
+</li>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-202">
+<a href="https://twitter.com/ocddisco/">
+<div class="div_twitter_link"></div>
+</a>
+</li>
+<li id="menu-item-203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-203">
+<a href="http://www.facebook.com/pages/FVDisco/171429226277558">
+<div class="div_facebook_link"></div>
+</a>
+</li>
+<li id="menu-item-204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204">
+<a href="http://www.youtube.com/user/FVDisco/">
+<div class="div_youtube_link"></div>
+</a>
+</li>
+<li id="menu-item-210" class="login_link menu-item menu-item-type-custom menu-item-object-custom menu-item-210">
+<a href="http://www.ocddisco.com/wp-login.php">
+<div class="login_button"></div>
+</a>
+</li>
+<li id="menu-item-211" class="logout_link menu-item menu-item-type-custom menu-item-object-custom menu-item-211">
+<a href="http://www.ocddisco.com/wp-login.php?action=logout&_wpnonce=8ca85a171e">
+<div class="logout_button"></div>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+         </div>
+         <div class="wrap_body">
+		<div class="navbar">
+			<div class="inner"><span class="corners-top"><span></span></span>
+
+			<ul class="linklist navlinks">
+				<li class="icon-home"><a href="./index.php" accesskey="h">Board index</a>  <strong>&#8249;</strong> <a href="./viewforum.php?f=14">General Forums</a> <strong>&#8249;</strong> <a href="./viewforum.php?f=16">Introductions</a></li>
+
+				<li class="rightside"><a href="#" onclick="fontsizeup(); return false;" onkeypress="return fontsizeup(event);" class="fontsize" title="Change font size">Change font size</a></li>
+
+				<li class="rightside"><a href="./viewtopic.php?f=16&amp;t=73&amp;view=print" title="Print view" accesskey="p" class="print">Print view</a></li>
+			</ul>
+
+			
+
+			<ul class="linklist rightside">
+				<li class="icon-faq"><a href="./faq.php" title="Frequently Asked Questions">FAQ</a></li>
+				
+			</ul>
+
+			<span class="corners-bottom"><span></span></span></div>
+		</div>
+
+
+	<a name="start_here"></a>
+	<div id="page-body">
+		
+<h2><a href="./viewtopic.php?f=16&amp;t=73">Community Guidelines *PLEASE READ BEFORE POSTING*</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body --><div style="display: none !important;">Say hello to the community!<br /></div>
+	<div class="rules">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		
+			<a href="viewtopic.php?f=16&amp;t=73">Forum rules</a>
+		
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+
+<div class="topic-actions">
+
+	<div class="buttons">
+	
+	</div>
+
+	
+		<div class="pagination">
+			1 post
+			 &bull; Page <strong>1</strong> of <strong>1</strong>
+		</div>
+	
+
+</div>
+<div class="clear"></div>
+
+
+	<div id="p221" class="post bg2">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		<div class="postbody">
+			
+
+			<h3 class="first"><a href="#p221">Community Guidelines *PLEASE READ BEFORE POSTING*</a></h3>
+			<p class="author"><img src="./styles/disco/imageset/icon_post_target.gif" width="11" height="9" alt="Post" title="Post" />by <strong><span style="color: #AA0000;" class="username-coloured">mordenkaim</span></strong> &raquo; Jan 16 2013 5:27 am </p>
+
+			
+
+			<div class="content"><span style="font-weight: bold"><span style="text-decoration: underline">Community Guidelines</span></span><br /><br />We take pride in keeping our message boards respectful, pleasant, and enjoyable for members of all ages. Please read the following guidelines before posting.<br /><br /><span style="text-decoration: underline">Copyright Policy</span><br /><br />oCd-Pack: No modifications to oCd-Pack should be distributed for public use. Modifications for your own personal use are acceptable, but those modifications are not allowed to be distributed in any form or it will be considered a violation of the copyright policy.  oCd-Pack inspired texture packs are allowed and encouraged, though all artwork must be original to the poster.<br /><br />Maps: Any video content that is created demonstrating a map by disco should give full credit in the description and link either to the official video or ocddisco.com post related to the map in their video description.  Any modifications to the original maps should be for personal use only and not distributed in any form or it will be considered a violation of the copyright policy.<br /><br />Any violation of the copyright policy will be punishable by warning or immediate ban depending on the circumstance. Any thread containing material that is a violation of the copyright policy will be promptly deleted.<br /><br /><span style="text-decoration: underline">Excessive Self-Promotion is Spam</span><br /><br />While we are OK with you posting your creations in the proper forums, excessive promotion and bumping of your creations to gain visibility is considered spam.  We will not tolerate spammers as they only serve to flood the community with meaningless content.  Your post has fallen to the bottom because it does not interest users of the forum, and as such it should remain there.  It is also perfectly fine to promote your website/content in your signature, and that will serve as a great way to promote yourself through normal community engagement.<br /><br /><span style="text-decoration: underline">Bumping Policy</span><br /><br />Bumping should be limited to two bumps without a response.  If you bump your post or creation two times and no meaningful comments come from other users you can safely assume there is little interest in the topic.  Also, please allow for at least 6 hours between your last post and a bump.  Failure to follow these rules will end up in a warning, and repeated offenses will result in a ban.<br /><br /><span style="text-decoration: underline">Duplicate Threads</span><br /><br />Duplicate threads are not necessary.  If you are unsure where to post a specific subject, it most likely belongs in the Off-Topic forum.  If it applies to two different forums please just choose one and stick with it, the moderators will move your post to the proper forum if it does not apply.<br /><br /><span style="text-decoration: underline">Language and Trolling</span><br /><br />Our community is family-friendly. There are young users and language should be kept within a PG-13 level. Vulgar language is not allowed. This constitutes the use of any kind of offensive, discriminatory, or otherwise inappropriate material deemed unsafe for younger members. Inappropriate language will potentially be removed and users will be warned.<br /><br />Do not post provocative, outrageous, or pointless messages only to get a response from others, i.e. &quot;trolling.&quot; Repeat violators will be permanently banned.<br /><br />Lastly, if it is abundantly clear that a user has no intention of positively contributing to discussions, combined with an abrasive, combative attitude, they will be banned.<br /><br /><span style="text-decoration: underline">Personal Attacks</span><br /><br />In order to maintain a positive atmosphere, no personal attacks or insults will be tolerated. While discussions may become heated, it is not an excuse to result to attacks or insults. There is a difference between a passionate, respectful discussion and one that delves into personal matters. Think of it as debating issues, not individuals. When the line is crossed, the discussion may be closed by the moderation team. Violators will be warned and potentially banned.<br /><br /><span style="text-decoration: underline">Moderators and Administrators Have the Final Word</span><br /><br />If you have a problem or a complaint, direct it to the administrators and/or moderators, not to the boards.The appropriate actions will be taken. We reserve the right to ban flagrant offenders when deemed necessary, with or without prior warning.</div>
+
+			<div id="sig221" class="signature"><center><img src="http://www.ocddisco.com/images/discotech_trans_320.png" alt="Image" /><br /><span style="font-size: 150%; line-height: 116%;"><span style="color: #BF0000"><span style="font-weight: bold">Member of the Discotech build team</span></span></span><br /><br /><span style="font-weight: bold">YT:</span> <a href="http://www.youtube.com/user/mordenkaim" class="postlink">http://www.youtube.com/user/mordenkaim</a><br /><span style="font-weight: bold">PMC:</span> <a href="http://www.planetminecraft.com/member/mordenkaim/" class="postlink">http://www.planetminecraft.com/member/mordenkaim/</a></center></div>
+
+		</div>
+
+		
+			<dl class="postprofile" id="profile221">
+			<dt>
+				<img src="./download/file.php?avatar=2_1357977937.png" width="90" height="90" alt="User avatar" /><br />
+				<strong><span style="color: #AA0000;" class="username-coloured">mordenkaim</span></strong>
+			</dt>
+
+			<dd>Site Admin</dd>
+
+		<dd>&nbsp;</dd>
+
+		<dd><strong>Posts:</strong> 18</dd><dd><strong>Joined:</strong> Dec 09 2012 4:11 pm</dd> 
+        
+        <script language="javascript" type="text/javascript">
+		
+		var theWarnings = 0;
+		theWarnings =0;
+		//0
+		var theWarningsDesc = "";
+		
+		if(theWarnings > 10){
+			theWarningDesc = "BINNED";
+		}
+			
+		var theImage = "0.png";
+		
+		switch(theWarnings)
+		{
+			case 0:
+			  theImage = "0.png";
+			  theWarningDesc = "No Warnings";
+			  break;
+			case 1:
+			  theImage = "1.png";
+			  theWarningDesc = "Slap on the Wrist";
+			  break;
+			case 2:
+			  theImage = "2.png";
+			  theWarningDesc = "Naughty";
+			  break;
+			case 3:
+			  theImage = "3.png";
+			  theWarningDesc = "Thin Ice";
+			  break;
+			case 4:
+			  theImage = "4.png";
+			  theWarningDesc = "One Foot in the Bin";
+			  break;
+			case 5:
+			  theImage = "5.png";
+			  theWarningDesc = "BIN!";
+			  break;
+			default:
+			  theImage = "5.png";
+			  break;
+		}
+		
+		
+		var theWarningPercent = theWarnings/5;
+		theWarningPercent = theWarningPercent*100;
+		theWarningPercent = Math.round(theWarningPercent);
+		
+		var displayit = theWarningPercent + "% <br />" + "<img src='/images/" + theImage + "' alt='" + theWarningDesc + "' /> <br />" +  theWarningDesc + "</dd>";	
+		
+		</script>
+        
+       <dd><strong>Warning Level: </strong><script type="text/javascript">document.write(displayit);</script></dd>
+
+		
+
+		</dl>
+	
+
+		<div class="back2top"><a href="#wrap" class="top" title="Top">Top</a></div>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	<hr class="divider" />
+
+
+<div class="topic-actions">
+	<div class="buttons">
+	
+	</div>
+
+	
+		<div class="pagination">
+			1 post
+			 &bull; Page <strong>1</strong> of <strong>1</strong>
+		</div>
+	
+</div>
+
+
+	<p></p><p><a href="./viewforum.php?f=16" class="left-box left" accesskey="r">Return to Introductions</a></p>
+
+	<form method="post" id="jumpbox" action="./viewforum.php" onsubmit="if(this.f.value == -1){return false;}">
+
+	
+		<fieldset class="jumpbox">
+	
+			<label for="f" accesskey="j">Jump to:</label>
+			<select name="f" id="f" onchange="if(this.options[this.selectedIndex].value != -1){ document.forms['jumpbox'].submit() }">
+			
+				<option value="-1">Select a forum</option>
+			<option value="-1">------------------</option>
+				<option value="14">General Forums</option>
+			
+				<option value="16" selected="selected">&nbsp; &nbsp;Introductions</option>
+			
+				<option value="15">&nbsp; &nbsp;Off-topic</option>
+			
+				<option value="18">&nbsp; &nbsp;Technical Support</option>
+			
+				<option value="17">Minecraft Forums</option>
+			
+				<option value="8">&nbsp; &nbsp;Minecraft Chat</option>
+			
+				<option value="10">&nbsp; &nbsp;Map making &amp; Redstone</option>
+			
+				<option value="9">&nbsp; &nbsp;OCD Texture Pack</option>
+			
+			</select>
+			<input type="submit" value="Go" class="button2" />
+		</fieldset>
+	</form>
+
+
+	<h3>Who is online</h3>
+	<p>Users browsing this forum: <span style="color: #9E8DA7;" class="username-coloured">Alexa [Bot]</span>, <span style="color: #9E8DA7;" class="username-coloured">Bing [Bot]</span>, jackbraun, melpomena, ribery123 and 32 guests</p>
+</div>
+
+<div id="page-footer">
+
+	<div class="navbar">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		<ul class="linklist">
+			<li class="icon-home"><a href="./index.php" accesskey="h">Board index</a></li>
+				
+			<li class="rightside">All times are UTC </li>
+		</ul>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	<div class="copyright">Powered by <a href="http://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Group
+		
+	</div>
+
+</div>
+
+<div>
+	<a id="bottom" name="bottom" accesskey="z"></a>
+	
+</div>
+
+</div>
+<table class="footer_table">
+					<tr>
+						<td class="footer_left">
+							<a href='http://www.mojang.com/'><img src='/images/mojang.png'></a>
+						</td>
+						<td class="footer_center">
+							<img src='/images/discofooter.png'>
+							<br/>&copy2013 Disco
+							<br/>ALL RIGHTS RESERVED
+							<br/><br/><br/><span class="inner_footer_center">Site design by Disco & Mordenkaim</span>
+						</td>
+						<td class="footer_right">
+							<a href="http://www.ocddisco.com/about/">About</a> &middot;<br/>
+							<a href="http://www.ocddisco.com/contact/">Contact</a> &middot;<br/>
+							<a href="http://www.ocddisco.com/faq/">FAQ</a> &middot;
+						</td>
+					</tr>
+				</table>
+</div>
+
+</body>
+</html>
